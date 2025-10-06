@@ -1,0 +1,8 @@
+aws:
+  s3_bucket: your-bucket
+  prefix: ecommerce/raw/
+  region: us-east-1
+db:
+  url: postgresql+psycopg2://user:pass@localhost:5432/etl_demo
+paths:
+  local_raw: ./data

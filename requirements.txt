@@ -1,0 +1,5 @@
+pandas
+boto3
+PyYAML
+SQLAlchemy
+psycopg2-binary    # Postgres (use mysqlclient if using MySQL)

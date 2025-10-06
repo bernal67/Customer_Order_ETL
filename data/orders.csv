@@ -1,0 +1,8 @@
+order_id,customer_id,product_id,quantity,unit_price,order_date,status
+1001,1,101,1,89.99,2024-06-01,completed
+1002,2,103,2,15.00,2024-06-02,completed
+1003,3,104,1,39.00,2024-06-03,cancelled
+1004,1,105,1,59.99,2024-06-05,completed
+1005,4,102,1,24.50,2024-06-05,completed
+1006,5,104,2,39.00,2024-06-07,completed
+1007,2,101,1,89.99,2024-06-09,completed
